@@ -1,2 +1,2 @@
-# Filter-data-with-search-box
+# Table-by-passing-props
 Created with CodeSandbox
